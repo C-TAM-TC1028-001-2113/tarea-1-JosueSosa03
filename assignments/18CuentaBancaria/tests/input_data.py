@@ -7,7 +7,7 @@ input_values = [
         # Inputs
         ["100.1", "57.38", "5.23", "2"],
         # Outputs
-        ["Dame el saldo del mes anterior: ", "Dame los ingresos: ", "Dame los egresos: ", "Dame el número de cheques: ", "El saldo final de la cuenta es: 116.78125"],
+        ["Dame el saldo del mes anterior: ", "Dame los ingresos: ", "Dame los egresos: ", "Dame el número de cheques: ", "El saldo final de la cuenta es: 116.78124999999999"],
         # Error message
         " -->a) Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores. Revisa el porcentaje."
     ),
