@@ -8,5 +8,6 @@ def main():
     interes = saldo_total * 0.075
     saldo_final = (saldo_total - interes)
     print("El saldo final de la cuenta es:",saldo_final)
+    #Este print da el resultado del saldo final
 if __name__ == '__main__':
     main()
